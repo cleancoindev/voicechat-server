@@ -12,7 +12,7 @@
         "build": "tsc"
     },
     "dependencies": {
-        "socket.io": "^3.1.2"
+        "socket.io": "^4.5.0"
     },
     "devDependencies": {
         "@types/socket.io": "^2.1.13",
